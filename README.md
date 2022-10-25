@@ -1,3 +1,3 @@
 # AntialiasingStudios
 Testing webpages in readme
-<iframe src="https://antialiasing.netlify.app/" title="Dynamic README"></iframe>
+<iframe width="100%" height="475" src="https://antialiasing.netlify.app" frameborder="0"></iframe>
